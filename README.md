@@ -44,8 +44,7 @@ The dataset utilized for this analysis contains historical flight data, includin
 - `README.md` file: Provides an overview of the project.
 
 **🚀Getting Started:**
-To run the code, Python 3 and Jupyter Notebook are required. The dataset can be downloaded from [<a href="data/Data_Train.xlsx">source</a>] or the GitHub repository.
-
+To run the code, Python 3 and Jupyter Notebook are required.
 🌄 Clone this repository: git clone https://github.com/Shyamdhudiya/Flight-price-prediction
 
 **Data Cleaning and EDA:**
